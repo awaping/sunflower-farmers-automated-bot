@@ -13,7 +13,6 @@ Totally open source, you can check all code.
 ### Please, consider donate some if I help you in any way
 My wallet address:
 
-**0x82249B72Fb97eB5A54CF769f91f049ecaF31F7bd**
 
 ![Sunflower-automated-bot](example.png)
 
